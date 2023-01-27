@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\Users\\won98\\.gradle\\daemon\\7.3.3\\com.example.wordbook.app-mergeDebugResources-36:\\layout\\activity_base.xml",
+        "source": "C:\\Users\\won98\\.gradle\\daemon\\7.3.3\\com.example.wordbook.app-main-39:\\layout\\activity_base.xml"
+    },
+    {
+        "merged": "C:\\Users\\won98\\.gradle\\daemon\\7.3.3\\com.example.wordbook.app-mergeDebugResources-36:\\layout\\fragment_register_voca.xml",
+        "source": "C:\\Users\\won98\\.gradle\\daemon\\7.3.3\\com.example.wordbook.app-main-39:\\layout\\fragment_register_voca.xml"
+    },
+    {
+        "merged": "C:\\Users\\won98\\.gradle\\daemon\\7.3.3\\com.example.wordbook.app-mergeDebugResources-36:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\won98\\.gradle\\daemon\\7.3.3\\com.example.wordbook.app-main-39:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\won98\\.gradle\\daemon\\7.3.3\\com.example.wordbook.app-mergeDebugResources-36:\\layout\\fragment_study.xml",
+        "source": "C:\\Users\\won98\\.gradle\\daemon\\7.3.3\\com.example.wordbook.app-main-39:\\layout\\fragment_study.xml"
+    },
+    {
+        "merged": "C:\\Users\\won98\\.gradle\\daemon\\7.3.3\\com.example.wordbook.app-mergeDebugResources-36:\\layout\\viewholder_voca.xml",
+        "source": "C:\\Users\\won98\\.gradle\\daemon\\7.3.3\\com.example.wordbook.app-main-39:\\layout\\viewholder_voca.xml"
+    },
+    {
+        "merged": "C:\\Users\\won98\\.gradle\\daemon\\7.3.3\\com.example.wordbook.app-mergeDebugResources-36:\\layout\\signup.xml",
+        "source": "C:\\Users\\won98\\.gradle\\daemon\\7.3.3\\com.example.wordbook.app-main-39:\\layout\\signup.xml"
+    },
+    {
+        "merged": "com.example.wordbook.app-mergeDebugResources-36:/layout/signup.xml",
+        "source": "com.example.wordbook.app-main-39:/layout/signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\won98\\.gradle\\daemon\\7.3.3\\com.example.wordbook.app-mergeDebugResources-36:\\layout\\action_bar.xml",
+        "source": "C:\\Users\\won98\\.gradle\\daemon\\7.3.3\\com.example.wordbook.app-main-39:\\layout\\action_bar.xml"
+    },
+    {
+        "merged": "com.example.wordbook.app-mergeDebugResources-36:/layout/activity_main.xml",
+        "source": "com.example.wordbook.app-main-39:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\won98\\.gradle\\daemon\\7.3.3\\com.example.wordbook.app-mergeDebugResources-36:\\layout\\fragment_voca_list_base.xml",
+        "source": "C:\\Users\\won98\\.gradle\\daemon\\7.3.3\\com.example.wordbook.app-main-39:\\layout\\fragment_voca_list_base.xml"
+    },
+    {
+        "merged": "C:\\Users\\won98\\.gradle\\daemon\\7.3.3\\com.example.wordbook.app-mergeDebugResources-36:\\layout\\fragment_voca_list.xml",
+        "source": "C:\\Users\\won98\\.gradle\\daemon\\7.3.3\\com.example.wordbook.app-main-39:\\layout\\fragment_voca_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\won98\\.gradle\\daemon\\7.3.3\\com.example.wordbook.app-mergeDebugResources-36:\\layout\\fragment_test.xml",
+        "source": "C:\\Users\\won98\\.gradle\\daemon\\7.3.3\\com.example.wordbook.app-main-39:\\layout\\fragment_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\won98\\.gradle\\daemon\\7.3.3\\com.example.wordbook.app-mergeDebugResources-36:\\layout\\fragment_main.xml",
+        "source": "C:\\Users\\won98\\.gradle\\daemon\\7.3.3\\com.example.wordbook.app-main-39:\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\won98\\.gradle\\daemon\\7.3.3\\com.example.wordbook.app-mergeDebugResources-36:\\layout\\fragment_edit_voca.xml",
+        "source": "C:\\Users\\won98\\.gradle\\daemon\\7.3.3\\com.example.wordbook.app-main-39:\\layout\\fragment_edit_voca.xml"
+    }
+]
